@@ -1,0 +1,63 @@
+Open Typing Machine (OpenTPM) CNSCJ BSD-3-Clause 授權條款（中英對照）
+
+【語言效力聲明 / Language Precedence】
+
+本文件以中文版本為準，英文譯文僅供參考。如中英文內容有任何疑義、歧義或不一致，均以中文版本為準。
+
+The Chinese version of this document shall prevail. The English translation is provided for reference only. In the event of any ambiguity, discrepancy, or inconsistency between the Chinese and English versions, the Chinese version shall prevail.
+
+--------------------------------------------------------------------------
+
+【中文正文 / Chinese Text】
+
+Open Typing Machine (OpenTPM) CNSCJ BSD-3-Clause 授權條款
+
+本授權適用於 OpenTPM 專案自行開發且有權以 BSD-3-Clause 提供的程式碼。
+
+第三方程式碼、詞庫及素材，仍依各自的授權文件與原有聲明處理。
+
+Open Typing Machine (OpenTPM)的著作權(c) 2026 Jeremy Dshu保留所有權利。
+
+在符合下列條件的前提下，允許以原始碼或二進位形式重新散布及使用本軟體，無論是否經過修改：
+
+1. 重新散布原始碼時，必須保留上述著作權聲明、本條件清單及下列免責聲明。
+
+2. 以二進位形式重新散布時，必須在隨附的文件及／或其他資料中，重現上述著作權聲明、本條件清單及下列免責聲明。
+
+3. 未事先取得著作權人的特定書面許可，不得使用Open Typing Machine (OpenTPM)或其貢獻者的名稱，為衍生自本軟體的產品背書或宣傳。
+
+本軟體由著作權人及貢獻者依「現狀」提供，不提供任何明示或默示的擔保，包括但不限於適售性及特定目的適用性的默示擔保。
+
+在任何情況下，著作權人或貢獻者均不對因使用本軟體而以任何方式產生的任何直接、間接、附帶、特殊、懲罰性或衍生性損害負責，包括但不限於購置替代商品或服務、使用上的損失、資料或利潤損失，或營業中斷。
+
+前述免責適用於損害的任何成因及任何責任理論，無論係基於契約、嚴格責任或侵權行為（包括過失或其他情形），即使已被告知可能發生此類損害，亦同。
+
+Open Typing Machine (OpenTPM)名稱及標誌之商標相關權利，不因本著作權授權而另行授予；相關使用依適用法律辦理。
+
+--------------------------------------------------------------------------
+
+【英文譯文 / English Translation】
+
+Open Typing Machine (OpenTPM) BSD-3-Clause License
+
+This license applies to code independently developed for the OpenTPM project that the relevant copyright holders are entitled to license under BSD-3-Clause.
+
+Third-party code, dictionaries, and assets remain subject to their respective license documents and original notices.
+
+Copyright (c) 2026 Jeremy Dshu. All rights reserved.
+
+Redistribution and use of this software in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+3. Neither the name Open Typing Machine (OpenTPM) nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission of the copyright holder.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION.
+
+THE FOREGOING DISCLAIMER APPLIES REGARDLESS OF HOW THE DAMAGE IS CAUSED AND OF THE THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE), EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+This copyright license does not separately grant any trademark rights in the Open Typing Machine (OpenTPM) name or marks; use thereof is subject to applicable law.
