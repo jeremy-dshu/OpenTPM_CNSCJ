@@ -11,7 +11,7 @@ https://www.cns11643.gov.tw
 https://data.gov.tw/dataset/5961
 
 來源碼表所載時間：2026-01-11 20:49。  
-此時間沿用來源碼表的記載，供追溯資料版本使用，並非 OpenTPM 的發布日期。
+此時間沿用來源碼表的記載，供追溯資料版本使用，並非 OpenTPM_CNSCJ 的發布日期。
 
 ## 二、適用授權
 
@@ -24,6 +24,11 @@ https://data.gov.tw/license
 
 本儲存庫隨附的完整條款：  
 [LICENSES/OGDL-Taiwan-1.0.txt](LICENSES/OGDL-Taiwan-1.0.txt)
+
+Open Typing Machine (OpenTPM)開發部份，依 BSD-3-Clause 授權
+
+本儲存庫隨附的完整條款：
+[LICENSES/OGDL-Taiwan-1.0.txt](LICENSES/OpenTPM_cnscj_License-TC&Eng.txt)
 
 ## 三、碼表取得來源
 
@@ -38,6 +43,8 @@ OpenTPM 使用的 cnscj.cin 取得自：
 ## 四、修改紀錄
 
 依 OpenTPM 既有來源紀錄，選字鍵設定 `%selkey` 調整為 `asdfghjkl;`，原有倉頡碼與候選資料未更動。
+
+部份標點符號及妳、你、的、我常用字使用`%direct`直接輸出不需選字。
 
 後續若調整編碼、候選資料或其他設定，將依實際版本更新此處紀錄。
 
