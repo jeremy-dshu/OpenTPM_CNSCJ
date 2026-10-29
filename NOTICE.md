@@ -28,7 +28,7 @@ https://data.gov.tw/license
 Open Typing Machine (OpenTPM)開發部份，依 BSD-3-Clause 授權
 
 本儲存庫隨附的完整條款：
-[LICENSES/OGDL-Taiwan-1.0.txt](LICENSES/OpenTPM_cnscj_License-TC&Eng.txt)
+[LICENSES/OpenTPM_cnscj_License-TC&Eng.txt](LICENSES/OpenTPM_cnscj_License-TC&Eng.txt)
 
 ## 三、碼表取得來源
 
