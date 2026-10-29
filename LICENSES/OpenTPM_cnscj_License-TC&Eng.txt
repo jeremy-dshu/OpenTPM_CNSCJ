@@ -4,7 +4,9 @@ Open Typing Machine (OpenTPM) CNSCJ BSD-3-Clause 授權條款（中英對照）
 
 本文件以中文版本為準，英文譯文僅供參考。如中英文內容有任何疑義、歧義或不一致，均以中文版本為準。
 
-The Chinese version of this document shall prevail. The English translation is provided for reference only. In the event of any ambiguity, discrepancy, or inconsistency between the Chinese and English versions, the Chinese version shall prevail.
+The Chinese version of this document shall prevail. The English translation is provided for reference only. In the event of any ambiguity, discrepancy,
+
+or inconsistency between the Chinese and English versions, the Chinese version shall prevail.
 
 --------------------------------------------------------------------------
 
@@ -28,7 +30,9 @@ Open Typing Machine (OpenTPM)的著作權(c) 2026 Jeremy Dshu保留所有權利�
 
 本軟體由著作權人及貢獻者依「現狀」提供，不提供任何明示或默示的擔保，包括但不限於適售性及特定目的適用性的默示擔保。
 
-在任何情況下，著作權人或貢獻者均不對因使用本軟體而以任何方式產生的任何直接、間接、附帶、特殊、懲罰性或衍生性損害負責，包括但不限於購置替代商品或服務、使用上的損失、資料或利潤損失，或營業中斷。
+在任何情況下，著作權人或貢獻者均不對因使用本軟體而以任何方式產生的任何直接、間接、附帶、特殊、懲罰性或衍生性損害負責，包括但不限於購置替代商品或服務、使用上的損失、
+
+資料或利潤損失，或營業中斷。
 
 前述免責適用於損害的任何成因及任何責任理論，無論係基於契約、嚴格責任或侵權行為（包括過失或其他情形），即使已被告知可能發生此類損害，亦同。
 
@@ -50,14 +54,28 @@ Redistribution and use of this software in source and binary forms, with or with
 
 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
 
-2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or
 
-3. Neither the name Open Typing Machine (OpenTPM) nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission of the copyright holder.
+   other materials provided with the distribution.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+3. Neither the name Open Typing Machine (OpenTPM) nor the names of its contributors may be used to endorse or promote products derived from this software 
 
-IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION.
+   without specific prior written permission of the copyright holder.
 
-THE FOREGOING DISCLAIMER APPLIES REGARDLESS OF HOW THE DAMAGE IS CAUSED AND OF THE THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE), EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
 
-This copyright license does not separately grant any trademark rights in the Open Typing Machine (OpenTPM) name or marks; use thereof is subject to applicable law.
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING IN
+
+ANY WAY OUT OF THE USE OF THIS SOFTWARE, INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+
+INTERRUPTION.
+
+THE FOREGOING DISCLAIMER APPLIES REGARDLESS OF HOW THE DAMAGE IS CAUSED AND OF THE THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+
+NEGLIGENCE OR OTHERWISE), EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+This copyright license does not separately grant any trademark rights in the Open Typing Machine (OpenTPM) name or marks; use thereof is subject to applicable
+
+law.
